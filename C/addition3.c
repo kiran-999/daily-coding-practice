@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int addition(int a+int b)
+int addition(int a,int b)
 
 {
     return a+b;
@@ -8,10 +8,10 @@ int addition(int a+int b)
 
 int main()
 {
-    int x=10, int y=20;
-    result= addition(x,y);
+    int x=10, y=20,result=0;
+    result = addition(x,y);
     printf("addition is: %d\n", result);
 
-    return0;
+    return 0;
     
 }
