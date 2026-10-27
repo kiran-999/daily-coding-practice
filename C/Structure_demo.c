@@ -1,3 +1,9 @@
+
+
+
+/* Structure Demo */
+
+
 #include<stdio.h>
 
 struct demo
@@ -14,5 +20,4 @@ int main()
 
 
     return 0;
-    
 }
