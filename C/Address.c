@@ -1,3 +1,5 @@
+/* This is a simple C program to demonstrate the use of address operator */
+
 #include<stdio.h>
 int main()
 {
