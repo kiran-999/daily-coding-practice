@@ -14,5 +14,5 @@ int main()
     printf("%d\n", sizeof(struct demo));
 
     return 0;
-    
+
 }
