@@ -1,3 +1,9 @@
+
+
+
+
+/* This is a simple structure demo using #pragma pack(1) */
+
 #include<stdio.h>
 
 #pragma pack(1)
