@@ -1,3 +1,5 @@
+/* This is a simple C program to demonstrate the use of primitive data types. */
+
 #include<stdio.h>
 int main()
 {
