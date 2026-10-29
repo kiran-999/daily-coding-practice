@@ -15,7 +15,7 @@ int main()
     struct demo dobj;
 
     dobj.no = 21;
-    dobj.ch = 'A';
+    dobj.f = 90.99f;
     dobj.p = &x;
 
     printf("%\d/n", (dobj.p));
