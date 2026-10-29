@@ -18,7 +18,7 @@ int main()
     dobj.f = 90.99f;
     dobj.p = &x;
 
-    printf("%\d/n", (dobj.p));
+    printf("%d\n", (dobj.p));
 
     return 0;
 
