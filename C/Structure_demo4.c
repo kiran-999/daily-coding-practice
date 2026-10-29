@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-#pragma pack(push, 1)
+#pragma pack(1)
 
 struct demo
 {
@@ -8,8 +8,6 @@ struct demo
     char ch;
     float f;
 };
-
-#pragma pack(pop)
 
 int main()
 {
