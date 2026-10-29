@@ -7,7 +7,7 @@ struct demo
     int i;
     char ch;
     float f;
-}
+};
 
 int main()
 {
