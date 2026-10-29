@@ -23,6 +23,7 @@ int main()
     dobj1.ch = 'A';
     dobj1.f = 90.99f;
 
+    //access using pointer to structure
     dp ->i=21;
     dp ->ch='B';
     dp ->f=91.90f;
