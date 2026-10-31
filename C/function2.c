@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//global variable declaration
 int value1=10;
 int value2=20;
 int ans;
