@@ -7,6 +7,7 @@ struct demo
     /* data */
     int i;      // 4 bytes
     float f;    // 4 bytes
+    
     struct hello
     {
         int no;
