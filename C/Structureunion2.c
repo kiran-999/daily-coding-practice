@@ -15,5 +15,5 @@ int main()
     printf("%d\n", sizeof(union demo));
 
     return 0;
-    
+
 }
